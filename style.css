@@ -1,5 +1,9 @@
 .cabeçalho {
 background-color: rgb(139, 135, 135);
+display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabe
